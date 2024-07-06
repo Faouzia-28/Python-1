@@ -1,0 +1,16 @@
+a=float(input())
+b=float(input())
+sum=a+b#addition
+print(sum)
+sub=a-b#subtraction
+print(sub)
+mul=a*b#multiplicaion
+print(mul)
+div=a/b#division
+print(div)
+exp=a**b#exponential
+print(exp)
+mod=a%b#modulus
+print(mod)
+fd=a//b#floordivision
+print(fd)
